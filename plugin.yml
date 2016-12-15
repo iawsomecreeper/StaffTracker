@@ -3,7 +3,7 @@ name: StaffTracker
 main: StaffTracker\main
 author: TuffDev/roboroug2
 version: 0.1.1
-api: [1.0.0]
+api: [2.0.0]
 description: Track your OPs or Staff command usage.
 website: http://github.com/TuffDev
 commands: none
